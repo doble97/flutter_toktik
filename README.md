@@ -14,3 +14,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+### Puntos que se veran en esta aplicación
+
+- Puntualmente veremos:
+- Manejo de assets
+- Paquetes
+- Gesture Detector
+- Posicionamiento de Widgets
+- Mappers
+- Gradientes
+- Loops
+- Aserciones
+- Stacks
+- Controladores de video
+- Mucho más
